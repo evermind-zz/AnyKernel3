@@ -4,13 +4,20 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Redmi 5 Plus kernel
+kernel.string=Onplus3/3t screen swap devicetree
 do.devicecheck=1
 do.modules=0
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=vince
+device.name1=OnePlus3
+device.name2=oneplus3
+device.name3=OnePlus3T
+device.name4=oneplus3t
+device.name5=OnePlus3
+device.name6=oneplus3
+device.name7=OnePlus3T
+device.name8=oneplus3t
 supported.versions=
 supported.patchlevels=
 '; } # end properties
